@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oss0430
-- 👀 I’m interested in machine learning, recommender system, natural language processing
+- 👀 I’m interested in machine learning, recommender system, natural language processing and federated learning
 - 🌱 I’m currently learning recommender system with nlp
 - 💞️ I’m looking to collaborate on machine learning studies
 - 📫 How to reach me {my mail : oss002@ajou.ac.kr}
